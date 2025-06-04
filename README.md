@@ -15,7 +15,7 @@ Hi! I'm PYRin This is my learning log and project archive based on the [100 Days
 
 | Day | Title                | Status         | Notes / Link              |
 | --- | -------------------- | -------------- | ------------------------- |
-| 1   | Band Name Generator  | ✅ Done         | [View](./Day01/README.md) |
+| 1   | Band Name Generator  | ✅ Done         | [View](./day1/README.md) |
 | 2   | Tip Calculator       | 🚧 In Progress | –                         |
 | 3   | Treasure Island Game | ⏳ Planned      | –                         |
 | 4   | Rock Paper Scissors  | ⏳ Planned      | –                         |
