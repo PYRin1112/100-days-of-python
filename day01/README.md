@@ -2,7 +2,9 @@
 
 ## ✅ Goal
 - Learn how to use `print()` to output text
+- Learn the concept of string
 - Get familiar with basic Python syntax
+- Create a band name generator
 
 ## 💡 Key Notes
 - Use `=` to assign a **variable**
