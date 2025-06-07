@@ -9,7 +9,6 @@
 - Draw a flow chart first!
 
 ## 🧭 Flowchart
-
 ![My flowchart](day07_notes.jpg)
 
 
