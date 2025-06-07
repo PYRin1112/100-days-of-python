@@ -8,4 +8,7 @@
 ## 💡 Key Notes
 - Draw a flow chart first!
 
+## 🧭 Flowchart
+
+![My flowchart](./hangman_flowchart.jpg)
 
