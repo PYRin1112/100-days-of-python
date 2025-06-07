@@ -15,5 +15,9 @@
 - Use `input()` to collect choices, and store them in variables
 
 ## 🖼️ Handwritten Notes
-![My flowchart](100 days of Python 3-1.jpg)
-![My flowchart](100 days of Python 3-2.jpg)
+![My flowchart](./100%20days%20of%20Python%203-1.jpg)
+![My flowchart](./100%20days%20of%20Python%203-2.jpg)
+![My flowchart](./100%20days%20of%20Python%203-3.jpg)
+![My flowchart](./100%20days%20of%20Python%203-4.jpg)
+![My flowchart](./100%20days%20of%20Python%203-5.jpg)
+![My flowchart](./100%20days%20of%20Python%203-end.jpg)
