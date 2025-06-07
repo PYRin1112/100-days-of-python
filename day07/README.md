@@ -10,5 +10,5 @@
 
 ## 🧭 Flowchart
 
-![My flowchart](./hangman_flowchart.jpg)
+![My flowchart](./day07_notes.jpg)
 
