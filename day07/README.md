@@ -10,5 +10,6 @@
 
 ## 🧭 Flowchart
 
-![My flowchart](./day07/day07_notes.jpg)
+![My flowchart](day07_notes.jpg)
+
 
