@@ -21,17 +21,16 @@ Hi! I'm PYRin This is my learning log and project archive based on the [100 Days
 | 4   | Rock Paper Scissors  | ⏳ Planned      | –                         |
 | 5   | Password Generator   | ⏳ Planned      | –                         |
 | 6   | Maze Logic (Reeborg) | ⏳ Planned      | –                         |
-
+| 7   | Hang Man             | ✅ Done         | –[View](./day07) |                        |
 > ✅ Done / 🚧 In Progress / ⏳ Planned
 
 ---
 
 ## 🛠️ Tools & Stack
-
 * Python 3.11
 * PyCharm
 * Git & GitHub
-* Markdown for journaling
+* Goodnotes 6 
 
 ---
 
