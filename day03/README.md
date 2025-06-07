@@ -14,4 +14,6 @@
 - `.lower()` helps handle user input case-insensitively
 - Use `input()` to collect choices, and store them in variables
 
-##🖼️ Handwritten Notes
+## 🖼️ Handwritten Notes
+![My flowchart](100 days of Python 3-1.jpg)
+![My flowchart](100 days of Python 3-2.jpg)
