@@ -17,7 +17,7 @@ Hi! I'm PYRin This is my learning log and project archive based on the [100 Days
 | --- | -------------------- | -------------- | ------------------------- |
 | 1   | Band Name Generator  | ✅ Done         | [View](./day01)          |
 | 2   | Tip Calculator       | ✅ Done         | [View](./day02)          | 
-| 3   | Treasure Island Game | ✅ Done         | [View](./day04)          |
+| 3   | Treasure Island Game | ✅ Done         | [View](./day03)          |
 | 4   | Rock Paper Scissors  | ⏳ Planned      | –                        |
 | 5   | Password Generator   | ⏳ Planned      | –                        |
 | 6   | Maze Logic (Reeborg) | ⏳ Planned      | –                        |
