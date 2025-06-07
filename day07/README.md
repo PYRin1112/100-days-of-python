@@ -1,4 +1,4 @@
-# 🗓️ Day 7 - Hangman Game (Full Version)
+# 🗓️ Day 7 - Hangman Game 
 
 ## ✅ Goal
 - Create a fully playable word guessing game
